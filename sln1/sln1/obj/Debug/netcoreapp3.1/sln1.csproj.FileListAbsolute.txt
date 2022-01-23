@@ -1,0 +1,13 @@
+C:\Users\PCKING\source\repos\sln1\sln1\bin\Debug\netcoreapp3.1\sln1.exe
+C:\Users\PCKING\source\repos\sln1\sln1\bin\Debug\netcoreapp3.1\sln1.deps.json
+C:\Users\PCKING\source\repos\sln1\sln1\bin\Debug\netcoreapp3.1\sln1.runtimeconfig.json
+C:\Users\PCKING\source\repos\sln1\sln1\bin\Debug\netcoreapp3.1\sln1.runtimeconfig.dev.json
+C:\Users\PCKING\source\repos\sln1\sln1\bin\Debug\netcoreapp3.1\sln1.dll
+C:\Users\PCKING\source\repos\sln1\sln1\bin\Debug\netcoreapp3.1\sln1.pdb
+C:\Users\PCKING\source\repos\sln1\sln1\obj\Debug\netcoreapp3.1\sln1.csprojAssemblyReference.cache
+C:\Users\PCKING\source\repos\sln1\sln1\obj\Debug\netcoreapp3.1\sln1.AssemblyInfoInputs.cache
+C:\Users\PCKING\source\repos\sln1\sln1\obj\Debug\netcoreapp3.1\sln1.AssemblyInfo.cs
+C:\Users\PCKING\source\repos\sln1\sln1\obj\Debug\netcoreapp3.1\sln1.csproj.CoreCompileInputs.cache
+C:\Users\PCKING\source\repos\sln1\sln1\obj\Debug\netcoreapp3.1\sln1.dll
+C:\Users\PCKING\source\repos\sln1\sln1\obj\Debug\netcoreapp3.1\sln1.pdb
+C:\Users\PCKING\source\repos\sln1\sln1\obj\Debug\netcoreapp3.1\sln1.genruntimeconfig.cache
