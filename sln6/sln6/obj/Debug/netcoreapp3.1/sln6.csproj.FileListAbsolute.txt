@@ -1,0 +1,13 @@
+C:\Users\PCKING\Desktop\人易科技\sln6\sln6\bin\Debug\netcoreapp3.1\sln6.exe
+C:\Users\PCKING\Desktop\人易科技\sln6\sln6\bin\Debug\netcoreapp3.1\sln6.deps.json
+C:\Users\PCKING\Desktop\人易科技\sln6\sln6\bin\Debug\netcoreapp3.1\sln6.runtimeconfig.json
+C:\Users\PCKING\Desktop\人易科技\sln6\sln6\bin\Debug\netcoreapp3.1\sln6.runtimeconfig.dev.json
+C:\Users\PCKING\Desktop\人易科技\sln6\sln6\bin\Debug\netcoreapp3.1\sln6.dll
+C:\Users\PCKING\Desktop\人易科技\sln6\sln6\bin\Debug\netcoreapp3.1\sln6.pdb
+C:\Users\PCKING\Desktop\人易科技\sln6\sln6\obj\Debug\netcoreapp3.1\sln6.csprojAssemblyReference.cache
+C:\Users\PCKING\Desktop\人易科技\sln6\sln6\obj\Debug\netcoreapp3.1\sln6.AssemblyInfoInputs.cache
+C:\Users\PCKING\Desktop\人易科技\sln6\sln6\obj\Debug\netcoreapp3.1\sln6.AssemblyInfo.cs
+C:\Users\PCKING\Desktop\人易科技\sln6\sln6\obj\Debug\netcoreapp3.1\sln6.csproj.CoreCompileInputs.cache
+C:\Users\PCKING\Desktop\人易科技\sln6\sln6\obj\Debug\netcoreapp3.1\sln6.dll
+C:\Users\PCKING\Desktop\人易科技\sln6\sln6\obj\Debug\netcoreapp3.1\sln6.pdb
+C:\Users\PCKING\Desktop\人易科技\sln6\sln6\obj\Debug\netcoreapp3.1\sln6.genruntimeconfig.cache
